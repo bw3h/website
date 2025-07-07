@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "web3heaven",
+  "alternateName": "NIO",
+  "url": "https://web3heaven.net/logo.png",
+  "logo": "https://web3heaven.net/",
+  "sameAs": "https://twitter.com/web3heaven_net"
+}
+</script>
