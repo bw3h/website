@@ -9,11 +9,11 @@
       >
         <v-stack direction="column" class="hero-content-container">
           <v-heading :level="1" class="hero-title">
-            <div>Payments Freedom Powered by web3heaven.</div>            
+            <div>Payments Freedom Powered by Luminet.</div>            
           </v-heading>
           <v-stack direction="column">
             <app-section-descriptor
-              description="web3heaven will lead you into the new digital era. 
+              description="Luminet will lead you into the new digital era. 
               Step forward with confidence as we revolutionize the way we transact, empowering individuals and businesses alike with the security and trust of the blockchain technology."
               class="hero-description"
             />
@@ -41,8 +41,8 @@
   </section>  
 </template>
 <script>
-const web3heaven_URL = process.env.web3heaven_BOOK_DEMO_URL
-const web3heaven_DASHBOARD_URL = process.env.web3heaven_DASHBOARD_URL
+const Luminet_URL = process.env.Luminet_BOOK_DEMO_URL
+const Luminet_DASHBOARD_URL = process.env.Luminet_DASHBOARD_URL
 
 export default {
   name: 'HeroSection',
@@ -51,8 +51,8 @@ export default {
   data() {
     return {
       isIntroPlaying: false,
-      web3heaven_URL,
-      web3heaven_DASHBOARD_URL,
+      Luminet_URL,
+      Luminet_DASHBOARD_URL,
 
      
     }
