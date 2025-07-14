@@ -13,7 +13,7 @@
             <app-section-descriptor
         title="Contact"
         heading="GET IN TOUCH"
-        description="web3heaven team can be contacted either directly by email or alternatively through our social media channels.
+        description="Luminet team can be contacted either directly by email or alternatively through our social media channels.
         To get the fastest response we recommend to reach us on our Discord server where the developers, validators or our dedicated community members are always online."
         style="max-width: 64rem"
       />
@@ -28,53 +28,53 @@
           <v-text font="sans" :weight="600" class="get-in-touch">
               Write to us
             </v-text>
-          <a href="mailto:contact@web3heaven.net">
+          <a href="mailto:contact@Luminet.net">
             <v-text font="sans" :weight="600" class="footer-mailing">
-              contact@web3heaven.net
+              contact@Luminet.net
             </v-text>
           </a>
           <v-stack style="margin-top: 3rem" md-justify="space-evenly">
-            <a href="https://twitter.com/web3heaven_net" target="_blank">
+            <a href="https://twitter.com/Luminet_net" target="_blank">
               <v-image
                 path="images/social/twitter.png"
                 class="footer-social-link"
-                alt="web3heaven Twitter"
+                alt="Luminet Twitter"
               />
             </a>
 
             <a
               style="margin-left: 2rem"
-              href="https://discord.web3heaven.net"
+              href="https://discord.Luminet.net"
               target="_blank"
             >
               <v-image
                 path="images/social/discord.png"
                 class="footer-social-link"
-                alt="web3heaven Discord"
+                alt="Luminet Discord"
               />
             </a>
             <a
               style="margin-left: 2rem"
-              href="https://t.me/web3heaven_net"
+              href="https://t.me/Luminet_net"
               target="_blank"
             >
               <v-image
                 style="height: 44px; width: auto;"
                 path="images/social/telegram.png"
                 class="footer-social-link"
-                alt="web3heaven Telegram"
+                alt="Luminet Telegram"
               />
             </a>
             <a
               style="margin-left: 2rem"
-              href="https://github.com/web3heaven-net"
+              href="https://github.com/Luminet-net"
               target="_blank"
             >
               <v-image
                 style="height: 44px; width: auto;"
                 path="images/social/github.png"
                 class="footer-social-link"
-                alt="web3heaven Github"
+                alt="Luminet Github"
               />
             </a>
 
@@ -91,14 +91,14 @@
           <v-stack direction="column" class="footer-links">
             <a href=""><v-text></v-text></a>
             <a href="/about/"><v-text>About</v-text></a>
-            <a href="https://blog.web3heaven.net"><v-text>Blogger</v-text></a>
+            <a href="https://blog.Luminet.net"><v-text>Blogger</v-text></a>
             <a href="/careers/"><v-text>Careers</v-text></a>
 
           </v-stack>
           <v-stack direction="column" class="footer-links">
             <a href=""><v-text></v-text></a>
             <a href="https://bitcointalk.org/index.php?topic=5377414"><v-text>Forum</v-text></a>
-            <a href="https://www.reddit.com/r/web3heaven/"><v-text>Reddit</v-text></a>
+            <a href="https://www.reddit.com/r/Luminet/"><v-text>Reddit</v-text></a>
             <a href="/terms/" target="_blank"><v-text>Terms</v-text></a
             >
 
@@ -110,15 +110,15 @@
 </template>
 
 <script>
-const web3heaven_DISCORD_URL = process.env.web3heaven_DISCORD_URL
-const web3heaven_BOOK_DEMO_URL = process.env.web3heaven_BOOK_DEMO_URL
+const Luminet_DISCORD_URL = process.env.Luminet_DISCORD_URL
+const Luminet_BOOK_DEMO_URL = process.env.Luminet_BOOK_DEMO_URL
 
 export default {
   name: 'AppFooter',
   data() {
     return {
-      web3heaven_DISCORD_URL,
-      web3heaven_BOOK_DEMO_URL,
+      Luminet_DISCORD_URL,
+      Luminet_BOOK_DEMO_URL,
     }
   },
 }
