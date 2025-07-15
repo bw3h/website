@@ -6,7 +6,7 @@
           <app-section-descriptor
             title="We are Hiring"
             heading="Join Our Team"
-            description="There is no shortage of interesting challenges to work on at web3heaven. Being at the bleeding edge of technology in Web 3 and payments, we are defining the tools the developers of future will use.
+            description="There is no shortage of interesting challenges to work on at Luminet. Being at the bleeding edge of technology in Web 3 and payments, we are defining the tools the developers of future will use.
 If you are interested in what we are building, checkout our existing openings, if there isn’t an open role for you, but you are great at what you do, we’d still love to talk."
             class="joinus-description"
           />
