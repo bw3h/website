@@ -3,16 +3,16 @@
     <v-container>
       <app-section-descriptor
         title="Our mission"
-        heading="web3heaven Vision"
+        heading="Luminet Vision"
         style="max-width: 60rem"
       />
       <app-section-descriptor
-            description="With web3heaven, users can expect lightning-fast transaction speeds, eliminating the frustrating delays that have long been associated with traditional payment systems. 
+            description="With Luminet, users can expect lightning-fast transaction speeds, eliminating the frustrating delays that have long been associated with traditional payment systems. 
             Our platform ensures that transactions are processed swiftly, enabling seamless and timely transfers of value."
 style="text-align: left;" />
 <div class="spc"></div>
       <app-section-descriptor
-            description="       Our mission at web3heaven is to revolutionize traditional payments. By leveraging cutting-edge blockchain technology, 
+            description="       Our mission at Luminet is to revolutionize traditional payments. By leveraging cutting-edge blockchain technology, 
         we offer lightning-fast transactions, enhanced security, heightened privacy, and significant cost savings. Join us in reshaping the future of payments, making it accessible, secure, and efficient for everyone. 
         Together, let's unlock the transformative power of decentralization."
 style="text-align: left;" />
