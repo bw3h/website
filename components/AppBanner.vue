@@ -1,7 +1,7 @@
 <template>
   <div class="banner">
     <v-text line-height="1.5" :weight="500" size="1rem">
-      <a href="https://buy.web3heaven.net" target="_blank">Presale</a> is now live!
+      <a href="https://buy.Luminet.net" target="_blank">Presale</a> is now live!
     </v-text>
   </div>
 </template>
