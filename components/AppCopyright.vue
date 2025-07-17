@@ -5,7 +5,7 @@
               >
     <v-text size="1rem" >Terms</v-text></a
             >
-      © {{ currentYear }} web3heaven.
+      © {{ currentYear }} Luminet.
     </v-text>
   </div>
 </template>
