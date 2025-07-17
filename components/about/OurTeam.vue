@@ -4,7 +4,7 @@
       <v-stack justify="space-between">
         <app-section-descriptor
           title="The Developers"
-          heading="web3heaven Builders"
+          heading="Luminet Builders"
         />
       </v-stack>
       <v-stack
@@ -15,9 +15,9 @@
       >
       
       <app-section-descriptor
-            description="web3heaven team consists of a group of software engineers and designers which are passionate about blockchain technology and cryptocurrencies in general, with a strong belief in the freedom and privacy of each individual.
+            description="Luminet team consists of a group of software engineers and designers which are passionate about blockchain technology and cryptocurrencies in general, with a strong belief in the freedom and privacy of each individual.
 
-Our team is a perfect blend of core developers and UX/UI designers. Find out more about web3heaven project by reading the Whitepaper."
+Our team is a perfect blend of core developers and UX/UI designers. Find out more about Luminet project by reading the Whitepaper."
 style="text-align: left;" />
         
       </v-stack>
@@ -27,16 +27,16 @@ style="text-align: left;" />
       <div class="spcs"></div>
       <app-section-descriptor
         title="Our mission"
-        heading="web3heaven Vision"
+        heading="Luminet Vision"
         style="max-width: 60rem"
       />
       <app-section-descriptor
-            description="With web3heaven, users can expect lightning-fast transaction speeds, eliminating the frustrating delays that have long been associated with traditional payment systems. 
+            description="With Luminet, users can expect lightning-fast transaction speeds, eliminating the frustrating delays that have long been associated with traditional payment systems. 
             Our platform ensures that transactions are processed swiftly, enabling seamless and timely transfers of value."
 style="text-align: left;" />
 <div class="spc"></div>
       <app-section-descriptor
-            description="       Our mission at web3heaven is to revolutionize traditional payments. By leveraging cutting-edge blockchain technology, 
+            description="       Our mission at Luminet is to revolutionize traditional payments. By leveraging cutting-edge blockchain technology, 
         we offer lightning-fast transactions, enhanced security, heightened privacy, and significant cost savings. Join us in reshaping the future of payments, making it accessible, secure, and efficient for everyone. 
         Together, let's unlock the transformative power of decentralization."
 style="text-align: left;" />
