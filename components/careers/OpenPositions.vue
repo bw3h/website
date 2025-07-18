@@ -35,11 +35,11 @@
                     line-height="1.5"
                     color="secondary"
                     >Thank you for your interest about employment opportunities
-                    at web3heaven. Currently we do not have any open
+                    at Luminet. Currently we do not have any open
                     positions, however if you are interested in possible future
                     opportunities please send your CV to
-                    <a href="mailto:contact@web3heaven.net" class="mail-link"
-                      >contact@web3heaven.net</a
+                    <a href="mailto:contact@Luminet.net" class="mail-link"
+                      >contact@Luminet.net</a
                     >.</v-text
                   >
                 </v-stack>
@@ -155,7 +155,7 @@ export default {
             ],
             location: 'Bengaluru | Remote',
             compensation: '$120k – $200k | 0.5% – 2.0%',
-            link: 'https://angel.co/company/web3heaven/jobs/1705690-blockchain-lead-developer',
+            link: 'https://angel.co/company/Luminet/jobs/1705690-blockchain-lead-developer',
           },
           {
             title: 'QA Engineer',
@@ -165,7 +165,7 @@ export default {
             ],
             location: 'India | Remote',
             compensation: '₹10L – ₹20L | No equity',
-            link: 'https://angel.co/company/web3heaven/jobs/1783368-qa-engineer',
+            link: 'https://angel.co/company/Luminet/jobs/1783368-qa-engineer',
           },
           {
             title: 'Senior Golang Engineer',
@@ -176,7 +176,7 @@ export default {
             ],
             location: 'Europe | India | USA | Remote',
             compensation: '$50k – $120k | No equity',
-            link: 'https://angel.co/company/web3heaven/jobs/1829880-senior-golang-engineer',
+            link: 'https://angel.co/company/Luminet/jobs/1829880-senior-golang-engineer',
           },
         ],
         Marketing: [
@@ -188,19 +188,19 @@ export default {
             ],
             location: 'Europe | India | USA | Remote',
             compensation: '$40k – $100k | No equity',
-            link: 'https://angel.co/company/web3heaven/jobs/1822884-lead-developer-evangelist',
+            link: 'https://angel.co/company/Luminet/jobs/1822884-lead-developer-evangelist',
           },
         ],
         Sales: [
           {
             title: 'Business Developement',
             requirements: [
-              'Lead strategic partnerships with blockchain and crypto projects that are a good fit for web3heaven',
+              'Lead strategic partnerships with blockchain and crypto projects that are a good fit for Luminet',
               'Create innovative proposals for potential partners that drive value for both parties',
             ],
             location: 'Europe | India | USA | Remote',
             compensation: '$40k – $120k | No equity',
-            link: 'https://angel.co/company/web3heaven/jobs/1825008-business-development',
+            link: 'https://angel.co/company/Luminet/jobs/1825008-business-development',
           },
         ],
         Design: [],
