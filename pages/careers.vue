@@ -12,7 +12,7 @@ export default {
   layout: 'page',
   head() {
     return {
-      title: 'Careers - web3heaven',
+      title: 'Careers - Luminet',
     }
   },
 }
