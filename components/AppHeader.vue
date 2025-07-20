@@ -15,7 +15,7 @@ export default {
     return {
       headerCta: {
         label: 'Start Building',
-        link: process.env.web3heaven_DASHBOARD_URL,
+        link: process.env.Luminet_DASHBOARD_URL,
       },
       menuItems: [
         
@@ -30,17 +30,17 @@ export default {
       //   },
       {
           name: 'Blog',
-          link: 'https://blog.web3heaven.net',
+          link: 'https://blog.Luminet.net',
           external: true,
         },
         //     {
         //   name: 'NioDEX',
-        //   link: 'https://dex.web3heaven.net',
+        //   link: 'https://dex.Luminet.net',
         //   external: true,
         // },
         {
           name: 'Explorer',
-          link: 'https://scan.web3heaven.net',
+          link: 'https://scan.Luminet.net',
           external: true,
         },
         
@@ -50,13 +50,13 @@ export default {
         },
         {
            name: 'Wallet',
-           link: 'https://wallet.web3heaven.net',
+           link: 'https://wallet.Luminet.net',
            external: true,
          },
         
         {
           name: 'Whitepaper',
-          link: 'https://web3heaven.net/whitepaper.pdf',
+          link: 'https://Luminet.net/whitepaper.pdf',
           external: true,
         },
       ],
