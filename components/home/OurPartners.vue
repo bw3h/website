@@ -9,7 +9,7 @@ export default {
   name: 'OurPartners',
   methods: {
     goToBlog() {
-      window.open('https://medium.com/web3heaven-blog', '_blank')
+      window.open('https://medium.com/Luminet-blog', '_blank')
     },
   },
 }
