@@ -5,8 +5,8 @@
       <v-stack>
         <app-section-descriptor
           title="Roadmap"
-          heading="web3heaven Roadmap"
-          description="At web3heaven, our relentless pursuit is to establish the forefront of payment systems. Discover our remarkable achievements and ongoing endeavors below. Inspired? Join us in shaping the future! Together, we can make web3heaven the epitome of advancement in the realm of payments."
+          heading="Luminet Roadmap"
+          description="At Luminet, our relentless pursuit is to establish the forefront of payment systems. Discover our remarkable achievements and ongoing endeavors below. Inspired? Join us in shaping the future! Together, we can make Luminet the epitome of advancement in the realm of payments."
           style="max-width: 58rem"
         />
       </v-stack>
@@ -67,12 +67,12 @@
           >
             <v-chip>
               <v-text color="secondary" line-height="1.5rem" size="1.125rem">
-                Files uploaded to web3heaven are erasure coded into shards.
+                Files uploaded to Luminet are erasure coded into shards.
               </v-text>
             </v-chip>
             <v-chip>
               <v-text color="secondary" line-height="1.5rem" size="1.125rem">
-                Each shard is stored on a unique web3heaven storage node.
+                Each shard is stored on a unique Luminet storage node.
               </v-text>
             </v-chip>
             <v-chip>
@@ -191,13 +191,13 @@
           >
             <v-chip>
               <v-text color="secondary" line-height="1.5rem" size="1.125rem">
-                Every file uploaded to web3heaven is assigned a DID, as per the W3C
+                Every file uploaded to Luminet is assigned a DID, as per the W3C
                 DID spec(link).
               </v-text>
             </v-chip>
             <v-chip>
               <v-text color="secondary" line-height="1.5rem" size="1.125rem">
-                DID points to document stored on the public web3heaven blockchain
+                DID points to document stored on the public Luminet blockchain
                 for trust-less verification.
               </v-text>
             </v-chip>
