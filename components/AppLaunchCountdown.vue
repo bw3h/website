@@ -112,7 +112,7 @@
 </template>
 
 <script>
-const LAUNCH_COUNTDOWN_BYPASS_KEY = 'web3heaven-bypass-launch-countdown'
+const LAUNCH_COUNTDOWN_BYPASS_KEY = 'Luminet-bypass-launch-countdown'
 
 export default {
   name: 'AppLaunchCountdown',
