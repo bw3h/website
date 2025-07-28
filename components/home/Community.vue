@@ -27,7 +27,7 @@
         <v-stack direction="column" align="start" style="max-width: 34rem">
           <app-section-descriptor
             heading="Build"
-            description="If you have a great idea for an application to build on the web3heaven blockchain, sign up here to get access to our developer dashboard and the SDK as soon as it’s available."
+            description="If you have a great idea for an application to build on the Luminet blockchain, sign up here to get access to our developer dashboard and the SDK as soon as it’s available."
           />
           <v-button
             label="Build on Testnet"
@@ -185,7 +185,7 @@ export default {
       }
     },
     onBuild() {
-      window.open('https://testnet.web3heaven.net', '_blank')
+      window.open('https://testnet.Luminet.net', '_blank')
     },
   },
 }
