@@ -14,7 +14,7 @@
     script-src 'self' 'unsafe-inline' btw.so *.btw.so googletagmanager.com *.googletagmanager.com list-manage.com *.list-manage.com;
     style-src 'self' 'unsafe-inline' fonts.googleapis.com;
 
-    connect-src 'self' web3heaven.net *.web3heaven.net btw.so *.btw.so google-analytics.com *.google-analytics.com list-manage.com *.list-manage.com sentry.io *.sentry.io;
+    connect-src 'self' Luminet.net *.Luminet.net btw.so *.btw.so google-analytics.com *.google-analytics.com list-manage.com *.list-manage.com sentry.io *.sentry.io;
 
     object-src 'none';'''
 
@@ -30,21 +30,21 @@
 
 [[redirects]]
   from = "/blog"
-  to = "https://web3heaven.ghost.io/blog/"
+  to = "https://Luminet.ghost.io/blog/"
   status = 200
   force = true
-  headers = {X-Forwarded-Host = "web3heaven.net"}
+  headers = {X-Forwarded-Host = "Luminet.net"}
 
 [[redirects]]
   from = "/blog/*"
-  to = "https://web3heaven.ghost.io/blog/:splat"
+  to = "https://Luminet.ghost.io/blog/:splat"
   status = 200
   force = true
-  headers = {X-Forwarded-Host = "web3heaven.net"}
+  headers = {X-Forwarded-Host = "Luminet.net"}
 
 [[redirects]]
   from = "/testnet"
-  to = "https://testnet.web3heaven.net"
+  to = "https://testnet.Luminet.net"
   status = 301
   force = true
 
