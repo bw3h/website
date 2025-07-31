@@ -13,14 +13,14 @@
           <v-stack align="start" justify="space-between" md-direction="column">
             <v-stack direction="column" style="max-width: 42rem">
               <v-heading :level="1">
-                Evolve to Web3 with web3heaven
+                Evolve to Web3 with Luminet
               </v-heading>
               <v-stack direction="column" gap="2rem">
                 <app-section-descriptor
-                  description="We invite you to join us on this pioneering journey as we reshape the future of payments. Together, we can create a world where payment systems are accessible, secure, and efficient for everyone, regardless of their location or financial standing. With web3heaven, you can be part of a global community that embraces the potential of blockchain technology and experiences the benefits of decentralized finance. Let us reimagine the way we transact, empowering individuals and businesses worldwide to thrive in a digital era."
+                  description="We invite you to join us on this pioneering journey as we reshape the future of payments. Together, we can create a world where payment systems are accessible, secure, and efficient for everyone, regardless of their location or financial standing. With Luminet, you can be part of a global community that embraces the potential of blockchain technology and experiences the benefits of decentralized finance. Let us reimagine the way we transact, empowering individuals and businesses worldwide to thrive in a digital era."
                 />
                 <app-section-descriptor
-                  description="Here you will be a part of a highly skilled and collaborative team. Be it engineering, community, or marketing, we never run out of exciting challenges. If you’re looking forward to working in an emerging blockchain project, alongside some of the best talent in each field, web3heaven is the place for you! For us, every decision is centered around user privacy and security. Do you believe top-tier privacy should be a first-class citizen? Then come join us and help redefine privacy!"
+                  description="Here you will be a part of a highly skilled and collaborative team. Be it engineering, community, or marketing, we never run out of exciting challenges. If you’re looking forward to working in an emerging blockchain project, alongside some of the best talent in each field, Luminet is the place for you! For us, every decision is centered around user privacy and security. Do you believe top-tier privacy should be a first-class citizen? Then come join us and help redefine privacy!"
                 />
               </v-stack>
             </v-stack>
