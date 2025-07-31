@@ -1,9 +1,9 @@
 const site = {
-  url: 'https://web3heaven.net',
-  title: 'Payments Freedom Powered by web3heaven.',
+  url: 'https://Luminet.net',
+  title: 'Payments Freedom Powered by Luminet.',
   description:
-    'Payments Freedom Powered by web3heaven.',
-  image: 'https://web3heaven.net/',
+    'Payments Freedom Powered by Luminet.',
+  image: 'https://Luminet.net/',
   keywords: ['payments', 'blockchain'].join(', '),
 }
 
@@ -13,7 +13,7 @@ export default {
   env: process.env,
 
   head: {
-    title: 'web3heaven',
+    title: 'Luminet',
     htmlAttrs: {
       lang: 'en',
     },
