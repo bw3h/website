@@ -2,7 +2,7 @@
   <v-overlay>
     <iframe
       src="https://www.youtube.com/embed/i4PaiLBsy7o"
-      title="What is web3heaven? Mission | Benefits | Use Cases"
+      title="What is Luminet? Mission | Benefits | Use Cases"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
