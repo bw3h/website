@@ -84,7 +84,7 @@ export default {
           key: 'balaji',
           name: 'Balaji Srinivasan',
           image: 'images/investors/balaji.png',
-          desc: 'Investor, web3heaven',
+          desc: 'Investor, Luminet',
           cssClass: 'investor-balaji',
           orb: {
             color: 'red',
@@ -95,7 +95,7 @@ export default {
           key: 'tamar',
           name: 'Tamar Menteshashvili',
           image: 'images/investors/tamar.png',
-          desc: 'Investor, web3heaven',
+          desc: 'Investor, Luminet',
           cssClass: 'investor-tamar',
           orb: {
             color: 'red',
@@ -106,7 +106,7 @@ export default {
           key: 'kendrick',
           name: 'Kendrick Nguyen',
           image: 'images/investors/kendrick.png',
-          desc: 'Investor, web3heaven',
+          desc: 'Investor, Luminet',
           cssClass: 'investor-kendrick',
           orb: {
             color: 'yellow',
@@ -117,7 +117,7 @@ export default {
           key: 'santiago',
           name: 'Santiago Santos',
           image: 'images/investors/santiago.png',
-          desc: 'Investor, web3heaven',
+          desc: 'Investor, Luminet',
           cssClass: 'investor-santiago',
           orb: {
             color: 'yellow',
@@ -128,7 +128,7 @@ export default {
           key: 'au21',
           name: 'AU21 Capital',
           image: 'images/investors/au21.png',
-          desc: 'Investor, web3heaven',
+          desc: 'Investor, Luminet',
           cssClass: 'investor-au21',
           orb: {
             color: 'blue',
@@ -139,7 +139,7 @@ export default {
           key: 'kenetic',
           name: 'Kenetic Capital',
           image: 'images/investors/kenetic.png',
-          desc: 'Investor, web3heaven',
+          desc: 'Investor, Luminet',
           cssClass: 'investor-kenetic',
           orb: {
             color: 'blue',
@@ -150,14 +150,14 @@ export default {
           key: 'john',
           name: 'John Lilic',
           image: 'images/investors/john.png',
-          desc: 'Investor, web3heaven',
+          desc: 'Investor, Luminet',
           cssClass: 'investor-john',
         },
         {
           key: 'aniket',
           name: 'Aniket Jindal',
           image: 'images/investors/aniket.png',
-          desc: 'Investor, web3heaven',
+          desc: 'Investor, Luminet',
           cssClass: 'investor-aniket',
           orb: {
             color: 'yellow',
@@ -168,7 +168,7 @@ export default {
           key: 'siddharth',
           name: 'Siddharth Menon',
           image: 'images/investors/siddharth.png',
-          desc: 'Investor, web3heaven',
+          desc: 'Investor, Luminet',
           cssClass: 'investor-siddharth',
         },
       ],
