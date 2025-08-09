@@ -8,7 +8,7 @@
     </div> -->
     <v-container>
       <v-stack direction="column">
-        <app-section-descriptor title="Roadmap" heading="web3heaven History & Roadmap" />
+        <app-section-descriptor title="Roadmap" heading="Luminet History & Roadmap" />
         <v-stack gap="1rem" class="laptop-remove">
           <v-dropdown
             v-model="selectedYear"
@@ -78,13 +78,13 @@ export default {
         {
             quarter: 'Quarter 1',
             milestones: [
-              'web3heaven project development starts ✔️',
+              'Luminet project development starts ✔️',
               ],
           },
           {
             quarter: 'Quarter 2',
             milestones: [
-              'web3heaven network testing - Closed Testnet ✔️',
+              'Luminet network testing - Closed Testnet ✔️',
             ],
           },
           {
@@ -96,7 +96,7 @@ export default {
           {
             quarter: 'Quarter 4',
             milestones: [
-            'web3heaven network testing - Public Testnet ✔️',
+            'Luminet network testing - Public Testnet ✔️',
             ],
           },
         ],
@@ -104,18 +104,18 @@ export default {
         {
             quarter: 'Quarter 1',
             milestones: [
-              'web3heaven Mainnet launch ✔️',
+              'Luminet Mainnet launch ✔️',
               'Whitepaper 1.0 release ✔️',
               'The roadmap for 2022 revealed ✔️',
-              'web3heaven community build - Airdrop ✔️',
+              'Luminet community build - Airdrop ✔️',
               ],
           },
           {
             quarter: 'Quarter 2',
             milestones: [
-              'web3heaven 2.0 web wallet development ✔️',
-              'The new web3heaven website development ✔️',
-              'Whitepaper for web3heaven 2.0 release ✔️',
+              'Luminet 2.0 web wallet development ✔️',
+              'The new Luminet website development ✔️',
+              'Whitepaper for Luminet 2.0 release ✔️',
               'NeatDocs documentation release ✔️',
               ],
           },
@@ -125,7 +125,7 @@ export default {
               'New website 2.0 look redesign ✔️',
               'AMA sesion with HedgePay project ✔️',
               'Staking website gets a new look ✔️',
-              'web3heaven 2.0 explorer redesign ✔️',
+              'Luminet 2.0 explorer redesign ✔️',
               ],
           },
           {
@@ -143,7 +143,7 @@ export default {
             quarter: 'Quarter 1',
             milestones: [
               '2023 Roadmap presentation ✔️',
-              'web3heaven Blog development & launch ✔️',
+              'Luminet Blog development & launch ✔️',
               'Bitcointalk bounty campaign start ✔️',
               'Governance development & implementation ✔️',
               ],
@@ -155,13 +155,13 @@ export default {
               'Crosschain bridge contracts development ✔️',              
               '$NEAT listing on DEX exchange ✔️',
               'Logo redesign for new $NIO network ✔️',
-              'Whitepaper for web3heaven 3.0 development ✔️',
+              'Whitepaper for Luminet 3.0 development ✔️',
               ],
           },
           {
             quarter: 'Quarter 3',
             milestones: [
-              'web3heaven network 3.0 development start ✔️',
+              'Luminet network 3.0 development start ✔️',
               'The new website redesign and build ✔️',            
               'Contracts deployment on Polygon ✔️',
               'Uniswap v3 DEX $NIO token listing ✔️',
@@ -172,9 +172,9 @@ export default {
             quarter: 'Quarter 4',
             milestones: [
               'Complete native $NEAT coin swap ✔️',
-              'web3heaven network 3.0 Testnet launch ✔️',
-              'web3heaven network 3.0 Mainnet launch ✔️',
-              'New explorer for web3heaven 3.0 development ✔️',
+              'Luminet network 3.0 Testnet launch ✔️',
+              'Luminet network 3.0 Mainnet launch ✔️',
+              'New explorer for Luminet 3.0 development ✔️',
               'All-in-one wallet platform development ✔️',
               ],
           },
@@ -185,8 +185,8 @@ export default {
             milestones: [
               'ETH <-> NIO bridge development 💫' ,              
               'NioDEX development and launch 💫' ,
-              'Listing web3heaven on CoinMarketCap 💫',
-              'Listing web3heaven on CoinGecko 💫',
+              'Listing Luminet on CoinMarketCap 💫',
+              'Listing Luminet on CoinGecko 💫',
                    
               ],
           },
@@ -202,17 +202,17 @@ export default {
           // {
           //   quarter: 'Quarter 3',
           //   milestones: [
-          //     'web3heaven Milestone 1',
-          //     'web3heaven Milestone 2',
-          //     'web3heaven Milestone 3',
+          //     'Luminet Milestone 1',
+          //     'Luminet Milestone 2',
+          //     'Luminet Milestone 3',
               
           // },
           // {
           //   quarter: 'Quarter 4',
           //   milestones: [
-          //     'web3heaven Milestone 1',
-          //     'web3heaven Milestone 2',
-          //     'web3heaven Milestone 3',
+          //     'Luminet Milestone 1',
+          //     'Luminet Milestone 2',
+          //     'Luminet Milestone 3',
           //     ],
           // },
         ],
