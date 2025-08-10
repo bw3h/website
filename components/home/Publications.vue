@@ -13,9 +13,9 @@
           class="publication-description-container"
         >
           <app-section-descriptor
-            title="web3heaven Blog"
-            heading="Keep up to date with web3heaven and our research."
-            description="We frequently not only write about updates and partnerships at web3heaven but deep dive into research, share insights through ‘Engineering at web3heaven and ‘Design at web3heaven series, and break down the future of Web 3."
+            title="Luminet Blog"
+            heading="Keep up to date with Luminet and our research."
+            description="We frequently not only write about updates and partnerships at Luminet but deep dive into research, share insights through ‘Engineering at Luminet and ‘Design at Luminet series, and break down the future of Web 3."
             class="publication-description"
           />
           <v-button
@@ -35,7 +35,7 @@ export default {
   name: 'Publications',
   methods: {
     openBlog() {
-      window.open('https://blog.web3heaven.net', '_blank')
+      window.open('https://blog.Luminet.net', '_blank')
     },
   },
 }
