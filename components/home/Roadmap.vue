@@ -4,8 +4,8 @@
       <v-stack>
         <app-section-descriptor
           title="Roadmap"
-          heading="web3heaven Roadmap"
-          description="At web3heaven, our relentless pursuit is to establish the forefront of payment systems. Discover our remarkable achievements and ongoing endeavors below. Inspired? Join us in shaping the future! Together, we can make web3heaven the epitome of advancement in the realm of payments."
+          heading="Luminet Roadmap"
+          description="At Luminet, our relentless pursuit is to establish the forefront of payment systems. Discover our remarkable achievements and ongoing endeavors below. Inspired? Join us in shaping the future! Together, we can make Luminet the epitome of advancement in the realm of payments."
           style="max-width: 58rem"
         />
       </v-stack>
