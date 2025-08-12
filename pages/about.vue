@@ -10,7 +10,7 @@ export default {
   layout: 'page',
   head() {
     return {
-      title: 'About Us - web3heaven',
+      title: 'About Us - Luminet',
     }
   },
 }
