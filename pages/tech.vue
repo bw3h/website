@@ -13,7 +13,7 @@ export default {
   layout: 'page',
   head() {
     return {
-      title: 'Technology - web3heaven',
+      title: 'Technology - Luminet',
     }
   },
 }
