@@ -2,10 +2,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Corporation",
-  "name": "web3heaven",
+  "name": "Luminet",
   "alternateName": "NIO",
-  "url": "https://web3heaven.net/logo.png",
-  "logo": "https://web3heaven.net/",
-  "sameAs": "https://twitter.com/web3heaven_net"
+  "url": "https://Luminet.net/logo.png",
+  "logo": "https://Luminet.net/",
+  "sameAs": "https://twitter.com/Luminet_net"
 }
 </script>
