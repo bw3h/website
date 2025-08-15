@@ -15,7 +15,7 @@
 export default {
   head() {
     return {
-      title: 'Testnet - web3heaven',
+      title: 'Testnet - Luminet',
     }
   },
 }
